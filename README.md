@@ -14,7 +14,7 @@ Author & Contributor List
 Overview
 -------
 
-Part 1 Twitter Crawler (Python)
+Twitter Crawler (Python)
 ---
 
 This application uses the Twitter Streaming API to collect geolocated tweets and stores them in text files of 10MB each.
@@ -40,7 +40,7 @@ Examples:
 2. ./crawler.sh [num-tweets]
 3. ./crawler.sh 
 
-Part 2 Indexing/Webpage (Java, JSP)
+Indexing/Webpage (Java, JSP)
 ---
 
 ![alt text](http://i.imgur.com/Dgc2T9L.png "Example")
